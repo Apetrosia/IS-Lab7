@@ -209,7 +209,7 @@
             this.netStructureBox.Name = "netStructureBox";
             this.netStructureBox.Size = new System.Drawing.Size(178, 26);
             this.netStructureBox.TabIndex = 18;
-            this.netStructureBox.Text = "400;500;20;2";
+            this.netStructureBox.Text = "400;15;2";
             // 
             // recreateNetButton
             // 
@@ -333,7 +333,7 @@
             this.TrainingSizeCounter.Size = new System.Drawing.Size(180, 26);
             this.TrainingSizeCounter.TabIndex = 6;
             this.TrainingSizeCounter.Value = new decimal(new int[] {
-            700,
+            1000,
             0,
             0,
             0});
